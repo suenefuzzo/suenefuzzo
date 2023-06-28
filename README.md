@@ -1,12 +1,12 @@
 <h1> Hi everyone! ✨</h1>
-<p>I´m Sue and I´m an aspiring front-end developer. My passion for coding drives me to seek out new challenges and collaborate with others to create amazing projects.</p>
+<p>I´m Sue and I am a full stack developer in training. My passion for coding drives me to seek out new challenges and collaborate with others to create amazing projects.</p>
 
 <br>
 
 <a href="https://www.linkedin.com/in/suene-fuzzo-3a6929237/" target="_blank">
   <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
-<p>🌱 I’m currently learning: TypeScript.</p>
+<p>🌱 I’m currently learning: Python.</p>
 <p>📫 Reach me: suenequeiroz@hotmail.com</p>
 
 <br>
@@ -20,11 +20,5 @@
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 </div>
 
-<br>
 
-<div 
-  <a href="https://github.com/suenefuzzo">
-  <img height="150em" width="48%" src="https://github-readme-stats.vercel.app/api?username=suenefuzzo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suenefuzzo&layout=compact&langs_count=16&theme=dracula"/>
-</div>
 
