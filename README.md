@@ -11,7 +11,7 @@
 
 <p>🌱 Currently, I'm sharpening my skills in Python, while staying open to learning and adapting to emerging trends in the ever-evolving world of web development.
 <p>
-<p>📫 Let's connect! Feel free to reach out to me through my email < suenequeiroz@hotmail.com > or my Linkedin page listed on the right. I'm open to new opportunities, collaborations, and discussions about all things web development.</p>
+<p>📫 Let's connect! Feel free to reach out to me through my email <b>< suenequeiroz@hotmail.com ></b> or my Linkedin page listed on the right. I'm open to new opportunities, collaborations, and discussions about all things web development.</p>
 <p>🎯 I believe in the power of technology to transform lives and businesses, and I'm excited to be a part of that journey.</p>
 
 <p>⚡ Fun fact: When I'm not coding, you can find me playing volleyball or reading high-fantasy novels.</p>
@@ -31,5 +31,10 @@
   <img align="center" alt="Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
 </div>
 
+<br>
 
+<div>
+  <a href="http://github.com/suenefuzzo">
+  <img height=180em src="https://github-readme-stats.vercel.app/api?username=suenefuzzo&theme=panda&show_icons=true">
+</div>
 
