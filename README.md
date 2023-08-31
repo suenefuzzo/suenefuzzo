@@ -9,7 +9,7 @@
 
 <p>🌐Welcome to my GitHub page. As a transitioning full stack web developer, I'm constantly honing my skills and exploring new technologies to build innovative and user-friendly web applications.</p>
 
-<p>🌱 Currently, I'm sharpening my skills in Python, while staying open to learning and adapting to emerging trends in the ever-evolving world of web development.
+<p>🌱 Currently, I'm sharpening my skills in c#, while staying open to learning and adapting to emerging trends in the ever-evolving world of web development.
 <p>
 <p>📫 Let's connect! Feel free to reach out to me through my email <b>< suenequeiroz@hotmail.com ></b> or my Linkedin page listed on the right. I'm open to new opportunities, collaborations, and discussions about all things web development.</p>
 <p>🎯 I believe in the power of technology to transform lives and businesses, and I'm excited to be a part of that journey.</p>
